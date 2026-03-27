@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: 安全问题
-    url: https://github.com/DeliciousBuding
+    url: https://github.com/DeliciousBuding/codex-operations-console/blob/main/SECURITY.md
     about: 涉及漏洞、凭据或私有环境风险时，请不要公开提 Issue。
+  - name: 贡献指南
+    url: https://github.com/DeliciousBuding/codex-operations-console/blob/main/CONTRIBUTING.md
+    about: 提交问题或 PR 之前，建议先阅读协作规范。

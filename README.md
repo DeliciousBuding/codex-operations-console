@@ -205,6 +205,7 @@ npm run lint
 
 - `CONTRIBUTING.md`
 - `SECURITY.md`
+- `RELEASING.md`
 - `.github/pull_request_template.md`
 
 ## 🙌 致谢
