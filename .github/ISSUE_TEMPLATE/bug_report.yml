@@ -1,0 +1,47 @@
+name: Bug 反馈
+description: 报告一个可以复现的问题
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢反馈问题。请尽量提供可复现、可定位的信息，帮助我们更快处理。🙏
+  - type: textarea
+    id: summary
+    attributes:
+      label: 问题描述
+      description: 这个问题是什么？实际表现如何？
+      placeholder: 页面在切换筛选后出现空白状态，但列表数据实际上仍然存在。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 请按顺序描述复现过程
+      placeholder: |
+        1. 打开账号页
+        2. 输入关键词
+        3. 切换筛选
+        4. 观察列表状态
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望结果
+      description: 你原本希望看到什么？
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 截图或补充信息
+      description: 如有 UI 问题，欢迎附带截图、日志或上下文说明
+  - type: input
+    id: version
+    attributes:
+      label: 相关版本
+      description: 如适用，请填写 commit、分支名或版本号
