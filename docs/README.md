@@ -41,14 +41,8 @@
 
 这些文档记录历史阶段的评审、验证和优化结果，适合需要追踪过程时查阅：
 
-- `OPTIMIZATION-SUMMARY.md`
-- `P0-CRITICAL-REVIEW.md`
-- `P0-VERIFICATION-REPORT.md`
-- `P1-FINAL-VERIFICATION.md`
-- `P1-OPTIMIZATION-REPORT.md`
-- `P2-OPTIMIZATION-COMPLETE.md`
-- `VISUAL-OPTIMIZATION-COMPLETE.md`
-- `screenshots-cleanup-report.md`
+- `archive/`
+  阶段性报告、优化记录和历史留档入口。
 
 ### 截图资源
 

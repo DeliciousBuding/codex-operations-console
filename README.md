@@ -103,6 +103,7 @@ npm run lint
 - 浏览器测试工作流：`docs/browser-test-workflow.md`
 - 多模态审查工作流：`docs/multimodal-review-workflow.md`
 - 视觉设计基线：`docs/visual-design-system.md`
+- 历史阶段报告：`docs/archive/README.md`
 
 ## 🧪 当前验证状态
 
