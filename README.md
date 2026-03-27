@@ -99,6 +99,7 @@ npm run lint
 
 项目内置了面向视觉回归与交互复核的文档流程。
 
+- 文档总索引：`docs/README.md`
 - 浏览器测试工作流：`docs/browser-test-workflow.md`
 - 多模态审查工作流：`docs/multimodal-review-workflow.md`
 - 视觉设计基线：`docs/visual-design-system.md`
@@ -119,7 +120,7 @@ npm run lint
 
 ```text
 .
-├─ docs/              # 设计、计划、审查与验证文档
+├─ docs/              # 文档索引、设计规范与验证记录
 ├─ public/            # 静态资源
 ├─ scripts/           # 辅助脚本
 ├─ src/
@@ -144,6 +145,7 @@ npm run lint
 
 相关文档：
 
+- `docs/README.md`
 - `docs/visual-design-system.md`
 - `docs/frontend-optimization-summary.md`
 - `docs/p0-fixes-report.md`
